@@ -2,8 +2,6 @@ channels:
   - conda-forge
 dependencies:
   - appmode
-
-dependencies:
   - pip
   - pip:
       - julia
